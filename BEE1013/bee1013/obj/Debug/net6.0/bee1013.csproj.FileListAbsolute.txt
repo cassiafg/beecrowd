@@ -1,0 +1,15 @@
+C:\Users\cassia.guimaraes\source\repos\bee1013\bee1013\obj\Debug\net6.0\bee1013.csproj.AssemblyReference.cache
+C:\Users\cassia.guimaraes\source\repos\bee1013\bee1013\obj\Debug\net6.0\bee1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassia.guimaraes\source\repos\bee1013\bee1013\obj\Debug\net6.0\bee1013.AssemblyInfoInputs.cache
+C:\Users\cassia.guimaraes\source\repos\bee1013\bee1013\obj\Debug\net6.0\bee1013.AssemblyInfo.cs
+C:\Users\cassia.guimaraes\source\repos\bee1013\bee1013\obj\Debug\net6.0\bee1013.csproj.CoreCompileInputs.cache
+C:\Users\cassia.guimaraes\source\repos\bee1013\bee1013\bin\Debug\net6.0\bee1013.exe
+C:\Users\cassia.guimaraes\source\repos\bee1013\bee1013\bin\Debug\net6.0\bee1013.deps.json
+C:\Users\cassia.guimaraes\source\repos\bee1013\bee1013\bin\Debug\net6.0\bee1013.runtimeconfig.json
+C:\Users\cassia.guimaraes\source\repos\bee1013\bee1013\bin\Debug\net6.0\bee1013.dll
+C:\Users\cassia.guimaraes\source\repos\bee1013\bee1013\bin\Debug\net6.0\bee1013.pdb
+C:\Users\cassia.guimaraes\source\repos\bee1013\bee1013\obj\Debug\net6.0\bee1013.dll
+C:\Users\cassia.guimaraes\source\repos\bee1013\bee1013\obj\Debug\net6.0\refint\bee1013.dll
+C:\Users\cassia.guimaraes\source\repos\bee1013\bee1013\obj\Debug\net6.0\bee1013.pdb
+C:\Users\cassia.guimaraes\source\repos\bee1013\bee1013\obj\Debug\net6.0\bee1013.genruntimeconfig.cache
+C:\Users\cassia.guimaraes\source\repos\bee1013\bee1013\obj\Debug\net6.0\ref\bee1013.dll

@@ -1,0 +1,15 @@
+C:\estudos\beecrowd\BEE1019\BEE1019\bin\Debug\net6.0\BEE1019.exe
+C:\estudos\beecrowd\BEE1019\BEE1019\bin\Debug\net6.0\BEE1019.deps.json
+C:\estudos\beecrowd\BEE1019\BEE1019\bin\Debug\net6.0\BEE1019.runtimeconfig.json
+C:\estudos\beecrowd\BEE1019\BEE1019\bin\Debug\net6.0\BEE1019.dll
+C:\estudos\beecrowd\BEE1019\BEE1019\bin\Debug\net6.0\BEE1019.pdb
+C:\estudos\beecrowd\BEE1019\BEE1019\obj\Debug\net6.0\BEE1019.csproj.AssemblyReference.cache
+C:\estudos\beecrowd\BEE1019\BEE1019\obj\Debug\net6.0\BEE1019.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\beecrowd\BEE1019\BEE1019\obj\Debug\net6.0\BEE1019.AssemblyInfoInputs.cache
+C:\estudos\beecrowd\BEE1019\BEE1019\obj\Debug\net6.0\BEE1019.AssemblyInfo.cs
+C:\estudos\beecrowd\BEE1019\BEE1019\obj\Debug\net6.0\BEE1019.csproj.CoreCompileInputs.cache
+C:\estudos\beecrowd\BEE1019\BEE1019\obj\Debug\net6.0\BEE1019.dll
+C:\estudos\beecrowd\BEE1019\BEE1019\obj\Debug\net6.0\refint\BEE1019.dll
+C:\estudos\beecrowd\BEE1019\BEE1019\obj\Debug\net6.0\BEE1019.pdb
+C:\estudos\beecrowd\BEE1019\BEE1019\obj\Debug\net6.0\BEE1019.genruntimeconfig.cache
+C:\estudos\beecrowd\BEE1019\BEE1019\obj\Debug\net6.0\ref\BEE1019.dll

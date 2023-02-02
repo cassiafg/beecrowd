@@ -1,0 +1,15 @@
+C:\Users\cassia.guimaraes\source\repos\Beecrowd1006\Beecrowd1006\obj\Debug\net6.0\Beecrowd1006.csproj.AssemblyReference.cache
+C:\Users\cassia.guimaraes\source\repos\Beecrowd1006\Beecrowd1006\obj\Debug\net6.0\Beecrowd1006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassia.guimaraes\source\repos\Beecrowd1006\Beecrowd1006\obj\Debug\net6.0\Beecrowd1006.AssemblyInfoInputs.cache
+C:\Users\cassia.guimaraes\source\repos\Beecrowd1006\Beecrowd1006\obj\Debug\net6.0\Beecrowd1006.AssemblyInfo.cs
+C:\Users\cassia.guimaraes\source\repos\Beecrowd1006\Beecrowd1006\obj\Debug\net6.0\Beecrowd1006.csproj.CoreCompileInputs.cache
+C:\Users\cassia.guimaraes\source\repos\Beecrowd1006\Beecrowd1006\bin\Debug\net6.0\Beecrowd1006.exe
+C:\Users\cassia.guimaraes\source\repos\Beecrowd1006\Beecrowd1006\bin\Debug\net6.0\Beecrowd1006.deps.json
+C:\Users\cassia.guimaraes\source\repos\Beecrowd1006\Beecrowd1006\bin\Debug\net6.0\Beecrowd1006.runtimeconfig.json
+C:\Users\cassia.guimaraes\source\repos\Beecrowd1006\Beecrowd1006\bin\Debug\net6.0\Beecrowd1006.dll
+C:\Users\cassia.guimaraes\source\repos\Beecrowd1006\Beecrowd1006\bin\Debug\net6.0\Beecrowd1006.pdb
+C:\Users\cassia.guimaraes\source\repos\Beecrowd1006\Beecrowd1006\obj\Debug\net6.0\Beecrowd1006.dll
+C:\Users\cassia.guimaraes\source\repos\Beecrowd1006\Beecrowd1006\obj\Debug\net6.0\refint\Beecrowd1006.dll
+C:\Users\cassia.guimaraes\source\repos\Beecrowd1006\Beecrowd1006\obj\Debug\net6.0\Beecrowd1006.pdb
+C:\Users\cassia.guimaraes\source\repos\Beecrowd1006\Beecrowd1006\obj\Debug\net6.0\Beecrowd1006.genruntimeconfig.cache
+C:\Users\cassia.guimaraes\source\repos\Beecrowd1006\Beecrowd1006\obj\Debug\net6.0\ref\Beecrowd1006.dll
