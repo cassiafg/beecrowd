@@ -1,0 +1,15 @@
+C:\estudos\beecrowd\BEE1154\BEE1154\obj\Debug\net6.0\BEE1154.csproj.AssemblyReference.cache
+C:\estudos\beecrowd\BEE1154\BEE1154\obj\Debug\net6.0\BEE1154.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\beecrowd\BEE1154\BEE1154\obj\Debug\net6.0\BEE1154.AssemblyInfoInputs.cache
+C:\estudos\beecrowd\BEE1154\BEE1154\obj\Debug\net6.0\BEE1154.AssemblyInfo.cs
+C:\estudos\beecrowd\BEE1154\BEE1154\obj\Debug\net6.0\BEE1154.csproj.CoreCompileInputs.cache
+C:\estudos\beecrowd\BEE1154\BEE1154\bin\Debug\net6.0\BEE1154.exe
+C:\estudos\beecrowd\BEE1154\BEE1154\bin\Debug\net6.0\BEE1154.deps.json
+C:\estudos\beecrowd\BEE1154\BEE1154\bin\Debug\net6.0\BEE1154.runtimeconfig.json
+C:\estudos\beecrowd\BEE1154\BEE1154\bin\Debug\net6.0\BEE1154.dll
+C:\estudos\beecrowd\BEE1154\BEE1154\bin\Debug\net6.0\BEE1154.pdb
+C:\estudos\beecrowd\BEE1154\BEE1154\obj\Debug\net6.0\BEE1154.dll
+C:\estudos\beecrowd\BEE1154\BEE1154\obj\Debug\net6.0\refint\BEE1154.dll
+C:\estudos\beecrowd\BEE1154\BEE1154\obj\Debug\net6.0\BEE1154.pdb
+C:\estudos\beecrowd\BEE1154\BEE1154\obj\Debug\net6.0\BEE1154.genruntimeconfig.cache
+C:\estudos\beecrowd\BEE1154\BEE1154\obj\Debug\net6.0\ref\BEE1154.dll
