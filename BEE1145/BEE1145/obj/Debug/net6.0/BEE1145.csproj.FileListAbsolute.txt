@@ -1,0 +1,15 @@
+C:\estudos\beecrowd\BEE1145\BEE1145\bin\Debug\net6.0\BEE1145.exe
+C:\estudos\beecrowd\BEE1145\BEE1145\bin\Debug\net6.0\BEE1145.deps.json
+C:\estudos\beecrowd\BEE1145\BEE1145\bin\Debug\net6.0\BEE1145.runtimeconfig.json
+C:\estudos\beecrowd\BEE1145\BEE1145\bin\Debug\net6.0\BEE1145.dll
+C:\estudos\beecrowd\BEE1145\BEE1145\bin\Debug\net6.0\BEE1145.pdb
+C:\estudos\beecrowd\BEE1145\BEE1145\obj\Debug\net6.0\BEE1145.csproj.AssemblyReference.cache
+C:\estudos\beecrowd\BEE1145\BEE1145\obj\Debug\net6.0\BEE1145.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\beecrowd\BEE1145\BEE1145\obj\Debug\net6.0\BEE1145.AssemblyInfoInputs.cache
+C:\estudos\beecrowd\BEE1145\BEE1145\obj\Debug\net6.0\BEE1145.AssemblyInfo.cs
+C:\estudos\beecrowd\BEE1145\BEE1145\obj\Debug\net6.0\BEE1145.csproj.CoreCompileInputs.cache
+C:\estudos\beecrowd\BEE1145\BEE1145\obj\Debug\net6.0\BEE1145.dll
+C:\estudos\beecrowd\BEE1145\BEE1145\obj\Debug\net6.0\refint\BEE1145.dll
+C:\estudos\beecrowd\BEE1145\BEE1145\obj\Debug\net6.0\BEE1145.pdb
+C:\estudos\beecrowd\BEE1145\BEE1145\obj\Debug\net6.0\BEE1145.genruntimeconfig.cache
+C:\estudos\beecrowd\BEE1145\BEE1145\obj\Debug\net6.0\ref\BEE1145.dll

@@ -1,0 +1,15 @@
+C:\estudos\beecrowd\BEE1080\BEE1080\obj\Debug\net6.0\BEE1080.csproj.AssemblyReference.cache
+C:\estudos\beecrowd\BEE1080\BEE1080\obj\Debug\net6.0\BEE1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\beecrowd\BEE1080\BEE1080\obj\Debug\net6.0\BEE1080.AssemblyInfoInputs.cache
+C:\estudos\beecrowd\BEE1080\BEE1080\obj\Debug\net6.0\BEE1080.AssemblyInfo.cs
+C:\estudos\beecrowd\BEE1080\BEE1080\obj\Debug\net6.0\BEE1080.csproj.CoreCompileInputs.cache
+C:\estudos\beecrowd\BEE1080\BEE1080\bin\Debug\net6.0\BEE1080.exe
+C:\estudos\beecrowd\BEE1080\BEE1080\bin\Debug\net6.0\BEE1080.deps.json
+C:\estudos\beecrowd\BEE1080\BEE1080\bin\Debug\net6.0\BEE1080.runtimeconfig.json
+C:\estudos\beecrowd\BEE1080\BEE1080\bin\Debug\net6.0\BEE1080.dll
+C:\estudos\beecrowd\BEE1080\BEE1080\bin\Debug\net6.0\BEE1080.pdb
+C:\estudos\beecrowd\BEE1080\BEE1080\obj\Debug\net6.0\BEE1080.dll
+C:\estudos\beecrowd\BEE1080\BEE1080\obj\Debug\net6.0\refint\BEE1080.dll
+C:\estudos\beecrowd\BEE1080\BEE1080\obj\Debug\net6.0\BEE1080.pdb
+C:\estudos\beecrowd\BEE1080\BEE1080\obj\Debug\net6.0\BEE1080.genruntimeconfig.cache
+C:\estudos\beecrowd\BEE1080\BEE1080\obj\Debug\net6.0\ref\BEE1080.dll
